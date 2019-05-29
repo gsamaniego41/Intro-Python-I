@@ -17,4 +17,6 @@ print("x is {}, y is {}, z is {}".format(x, round(y, 2), z))
 # Finally, print the same thing using an f-string
 print(f"x is {x}, y is {round(y,2)}, z is {z}")
 
-# Resource: https://realpython.com/python-f-strings/
+# Resources:
+# https://realpython.com/python-f-strings/
+# https://pyformat.info/
